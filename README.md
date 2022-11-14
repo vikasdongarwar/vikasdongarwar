@@ -7,6 +7,8 @@ Hi 👋 My name is Vikas Dongarwar
 Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
 
 * 🌍  I'm based in Nagpur,Maharastra
+* 🖺   Here is my [Resume](https://drive.google.com/file/d/1pNVdYWb4dIqKoryYfiHFsypd4Zst5zwp/view?usp=sharing)
+* 👨🏼‍💻  My [Portfolio](https://vikasdongarwar.github.io/)
 * ✉️  You can contact me at [vikasdongarwar1012@gmail.com](mailto:vikasdongarwar1012@gmail.com)
 
 
