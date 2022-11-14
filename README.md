@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Capture for git hub](https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg)
+![Capture for git hub](width=500px)(https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg)
 
 
 
