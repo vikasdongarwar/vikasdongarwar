@@ -7,10 +7,10 @@ Hi 👋 My name is Vikas Dongarwar
 
 Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
 
-* 🌍  I'm based in Nagpur,Maharastra
+* 🌍  I'm based in Nagpur,Maharashtra
 * 🖺   Here is my [Resume](https://drive.google.com/file/d/1pNVdYWb4dIqKoryYfiHFsypd4Zst5zwp/view?usp=sharing)
-* 👨🏼‍💻  My [Portfolio](https://vikasdongarwar.github.io/)
-* 🔍  My [LinkedIn](https://www.linkedin.com/in/vikas-dongarwar-4254b0253/) profile
+* 👨🏼‍💻  Look into my [Portfolio](https://vikasdongarwar.github.io/)
+* 🔍  Look into my [LinkedIn](https://www.linkedin.com/in/vikas-dongarwar-4254b0253/) profile
 * ✉️  You can contact me at [vikasdongarwar1012@gmail.com](mailto:vikasdongarwar1012@gmail.com)
 
 
@@ -19,7 +19,8 @@ Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vik_d_13/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vikas-dongarwar-4254b0253) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikasdongarwar1012) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikeshborkar8)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vik_d_13/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vikas-dongarwar-4254b0253) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vikasdongarwar1012) 
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikeshborkar8)   -->
 
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]()-->
 
