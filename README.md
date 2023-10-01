@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 ![Capture for git hub](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
 <!-- ![programmer-engineering](https://user-images.githubusercontent.com/105915325/201589211-acaedbc1-56a7-499b-8aa4-b00ceed753b0.png) -->
 
